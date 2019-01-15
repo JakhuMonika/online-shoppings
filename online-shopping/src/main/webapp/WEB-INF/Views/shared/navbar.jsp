@@ -12,10 +12,11 @@
 							<span class="sr-only">(current)</span>
 					</a></li>
 					<li id="about"><a class="nav-link" href="${pageContext.request.contextPath}/about">About</a></li>
-					<li id="ListofProducts"><a class="nav-link" href="${pageContext.request.contextPath}/ListProducts">ViewProducts</a>
-					</li>
 					<li id="contact"> <a class="nav-link" href="${pageContext.request.contextPath}/contact">Contact</a>
 					</li>
+					<li id="ListofProducts"><a class="nav-link" href="${pageContext.request.contextPath}/show/all/products">ViewProducts</a>
+					</li>
+					
 				</ul>
 			</div>
 		</div>
